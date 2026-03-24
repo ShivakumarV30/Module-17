@@ -37,8 +37,8 @@ To write a Python program to demonstrate the **adjacency list representation** o
 ## PYTHON PROGRAM
 
 ```python
-#Reg No.:212222060224
-#Name: SANTHOSH M J
+#Reg No.:212222060239
+#Name: SHIVAKUMAR K V
 # A class to represent the adjacency list of the node
 
 class AdjNode:
